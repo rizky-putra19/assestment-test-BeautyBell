@@ -4,4 +4,4 @@ Tax Calculator, can count tax all item that input by user.
 
 Link documentation:
 
-Link deployment:
+Link deployment: https://api-tax-calculator.herokuapp.com/

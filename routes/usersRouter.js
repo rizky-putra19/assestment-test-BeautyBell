@@ -5,7 +5,7 @@ const { loginCheck } = require('../middlewares/authentication')
 
 router.post('/signup', userControllers.signup);
 router.post('/signin', userControllers.signin);
-router.post('/delete-account', loginCheck, userControllers.deleteAccount);
+router.delete('/delete-account', loginCheck, userControllers.deleteAccount);
 
 
 module.exports = router;
