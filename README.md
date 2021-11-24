@@ -6,6 +6,7 @@ Tax Calculator, can count all tax sub total of item and the grand total of all i
 - To see ERD architecture, you can see from the folder ERD_architecture in this API
 - This API deploy using Heroku (Cloud Server)
 - There is 3 Tax Code (1 = Tax Code for food, 2 = Tax Code for tobbaco, 3 = Tax Code for entertainment)
+- For unit testing you can check on test folder (using supertest, and jest)
 
 Link documentation: https://documenter.getpostman.com/view/17479687/UVJZoe43
 
