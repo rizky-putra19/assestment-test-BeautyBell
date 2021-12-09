@@ -1,4 +1,4 @@
-# assestment-test-BeautyBell
+# Tax Calculator API
 
 Tax Calculator, can count all tax sub total of item and the grand total of all item include price and tax that input by user.
 
